@@ -23,4 +23,12 @@ These are election sites that include `<subject>` with both [lcsh](https://en.wi
 and "local" headings noted as "lcwat", which represent a taxonomy that was
 developed for the quick categorization of sites during the nomination and
 harvesting process:
+
 `lcwaE0008846,lcwaE0008263,lcwaE0008338,lcwaE0008918,lcwaE0008001`
+
+These are some previous generation records, which have slight variety in 
+format and naming convention. 
+
+`lcwa00097019` Brazilian Presidential Election 2010 Web Archive
+
+`dfd3979a7fb56bb3acc06b7b0129633c,dfd3979a7fb56bb3acc06b7b0129633c` Example from 2002 Winter Olympics and NYPL (September 11, 2001 Web Archive)
