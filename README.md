@@ -6,7 +6,7 @@ practice parsing XML in python. These sample files were generated in August of
 2018 from MODS metadata records for archived Web sites collected by the Library
 of Congress.
 
-Those familiar with the Library may know about the LCCN, a general control number that is applied to most items that are held by the Library of Congress. In this case, there is not an LCCN for the archived Web sites. Instead, an LCWA (Web Archives) offers a unique identifier for the metadata records.
+Those familiar with the Library may know about the [LCCN](https://www.loc.gov/marc/lccn_structure.html), a general control number that provides unique identifiers for most items that are held by the Library of Congress. The Web archives described in these MODS records do not have LCCNs. Instead, an LCWA (Web Archives) offers a unique identifier for the metadata records.
 
 These are newer MODS records that don't have LCSH:
 ```
