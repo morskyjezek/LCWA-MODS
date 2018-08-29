@@ -30,4 +30,4 @@ These are some previous generation records, which have slight variety in
 format and naming convention. 
 
 * `lcwa00097019` _Brazilian Presidential Election 2010 Web Archive_
-* `dfd3979a7fb56bb3acc06b7b0129633c,dfd3979a7fb56bb3acc06b7b0129633c` _Example from 2002 Winter Olympics and NYPL (September 11, 2001 Web Archive)_
+* `dfd3979a7fb56bb3acc06b7b0129633c,00853935a711639f58b0f35bae8d7781` _Example from 2002 Winter Olympics and NYPL (September 11, 2001 Web Archive)_
