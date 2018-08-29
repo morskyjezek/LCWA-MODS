@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <identifier>dfd3979a7fb56bb3acc06b7b0129633c</identifier>
+  <titleInfo>
+    <title>Olympics 2002: Salt Lake City</title>
+  </titleInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>Web site</genre>
+  <originInfo>
+    <dateCaptured encoding="iso8601" point="start">20020219</dateCaptured>
+    <dateCaptured encoding="iso8601" point="end">20020227</dateCaptured>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <internetMediaType>text/html</internetMediaType>
+  </physicalDescription>
+  <abstract>All about the Winter Olympics</abstract>
+  <subject authority="keyword">
+    <topic>olympic, 2002 winter games, olympics, events, salt lake city, utah, medal standings</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Winter Olympic Games (19th : 2002 : Salt Lake City, Utah)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Winter Olympics</topic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Athletes</topic>
+    <topic>Biography</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Winter Olympic Games 2002 Web Archive</title>
+    </titleInfo>
+    <location>
+      <url>http://hdl.loc.gov/loc.natlib/collnatlib.00000004</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent" displayLabel="URL">
+    <identifier type="uri" displayLabel="Access URL">http://infoplease.com/spot/02olympics1.html</identifier>
+    <identifier type="database id">dfd3979a7fb56bb3acc06b7b0129633c</identifier>
+    <identifier type="hdl" invalid="yes">hdl:loc.natlib/mrva0004.0033</identifier>
+    <location>
+      <url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/dfd3979a7fb56bb3acc06b7b0129633c.jpg</url>
+    </location>
+  </relatedItem>
+  <location>
+    <url usage="primary display">http://hdl.loc.gov/loc.natlib/mrva0004.0033</url>
+  </location>
+  <location>
+    <url displayLabel="Archived site">http://www.loc.gov/item/dfd3979a7fb56bb3acc06b7b0129633c</url>
+  </location>
+  <accessCondition type="restrictionOnAccess">None</accessCondition>
+  <recordInfo>
+    <recordChangeDate encoding="iso8601">20150804</recordChangeDate>
+    <recordCreationDate>20050216</recordCreationDate>
+    <recordIdentifier source="dlc">dfd3979a7fb56bb3acc06b7b0129633c</recordIdentifier>
+  </recordInfo>
+</mods>

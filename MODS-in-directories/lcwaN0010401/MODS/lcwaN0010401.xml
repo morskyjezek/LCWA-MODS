@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mods version="3.4" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <identifier>lcwaN0010401</identifier>
+    <titleInfo>
+        <title>Metafilter | Community Weblog</title>
+    </titleInfo>
+    <name authority="naf" type="corporate">
+        <namePart><!-- TODO: Insert name authority here. --></namePart>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">electronic</form>
+        <internetMediaType>text/html</internetMediaType>
+        <digitalOrigin>born digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience>general</targetAudience>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">web site</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="text">United States</placeTerm>
+        </place>
+    </originInfo>
+    <abstract> MetaFilter is a general-interest community weblog, founded in 1999 and based in the United States, where a wide range of users submit and share links and commentary about the links they find. It is also a general discussion platform, the title suggests and intends it to be a place to filter out "the best of the web." The site presents a running commentary on a range of different issues that develop from everyday people.
+    </abstract>
+    <subject authority="keyword">
+        <topic><!-- TODO: add tags (comma separated). --></topic>
+    </subject>
+    <subject authority="lcsh">
+        <name authority="naf" type="corporate">
+            <namePart><!-- TODO: Insert name authority here (can be same as name authority above, under title). --></namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Web portals</topic></subject>
+    <!-- TODO: Insert LCSH subject heading combinations as appropriate, delete unused tags. Each tag can be repeated within subject block. View https://cdn.loc.gov/service/webcapture/project_1/mods/lcwa00093007.xml for example. See Rick for any specific questions. -->
+    <!-- Note: repeat entire subject block for each set of LCSH, can repeat as many times as necessary. -->
+    <subject authority="lcwabt">
+        <topic>Folklore and Mythology</topic>
+    </subject>
+    <!-- Note: lcwabt subject topics autopopulated from digiboard subjects. -->
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Web Cultures Web Archive</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>American Folklife Center</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="URL" type="constituent">
+        <identifier displayLabel="Access URL" type="uri">http://metafilter.com/</identifier>
+        <identifier type="database id">15229</identifier>
+        <location>
+            <url displayLabel="thumbnail image"
+                >http://cdn.loc.gov/service/webcapture/project_1/thumbnails/lcwaS0015229.jpg</url>
+        </location>
+        <part type="scope">
+            <text displayLabel="domain">http://metafilter.com</text>
+        </part>
+    </relatedItem>
+    <location>
+        <url displayLabel="Archived site">http://www.loc.gov/item/lcwaN0010401</url>
+    </location>
+    <location>
+        <physicalLocation>Library of Congress, Washington, D.C., 20540 USA</physicalLocation>
+        <physicalLocation authority="marcorg">dlc</physicalLocation>
+    </location>
+    <accessCondition type="restrictionOnAccess">None</accessCondition>
+    <recordInfo>
+        <recordContentSource authority="marcorg">dlc</recordContentSource>
+        <recordCreationDate encoding="iso8601">20170418</recordCreationDate>
+        <recordIdentifier source="dlc">lcwaN0010401</recordIdentifier>
+        <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+</mods>

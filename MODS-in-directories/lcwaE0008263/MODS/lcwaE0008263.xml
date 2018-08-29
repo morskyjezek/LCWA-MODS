@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+    <identifier>lcwaE0008263</identifier>
+    <titleInfo>
+        <title>Official Campaign Web Site - Joan Elizabeth Farr</title>
+    </titleInfo>
+    <name type="personal">
+        <namePart>Farr, Joan Elizabeth</namePart>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">web site</genre>
+        <language>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+        <physicalDescription>
+        <form authority="marcform">electronic</form>
+        <internetMediaType>text/html</internetMediaType>
+        <digitalOrigin>born digital</digitalOrigin>
+    </physicalDescription>
+    <targetAudience>general</targetAudience>
+    <subject authority="local">
+        <name type="personal">
+            <namePart>Farr, Joan Elizabeth</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Political candidates</topic>
+        <geographic>United States</geographic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Elections</topic>
+        <geographic>United States</geographic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Politics and government</topic>
+        <geographic>United States</geographic>
+    </subject>
+        <subject authority="local" displayLabel="United States Elections, 2014">
+        <topic>United States Elections, 2014</topic>
+    </subject>
+    <subject authority="lcsh" displayLabel="United States Elections, 2014">
+                <name type="corporate" authority="naf">
+                        <namePart>United States. Congress. Senate</namePart>
+                    </name>
+            </subject>
+    <subject authority="local" displayLabel="United States Elections, 2014">
+        <name type="corporate">
+            <namePart>Independent candidates</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh" displayLabel="United States Elections, 2014">
+        <geographic>Oklahoma</geographic>
+    </subject>
+            <relatedItem type="host">
+        <titleInfo>
+            <title>United States Elections Web Archive</title>
+        </titleInfo>
+        <location>
+            <url>http://hdl.loc.gov/loc.natlib/collnatlib.lcwaE0000001</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Humanities and Social Sciences Division</title>
+        </titleInfo>
+    </relatedItem>
+        <relatedItem type="constituent" displayLabel="URL">
+        <identifier type="uri" displayLabel="Access URL">http://www.joanfarrforussenate.com/</identifier>
+                    <identifier type="database id">110477</identifier>
+                <location>
+            <url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/110477.jpg</url>
+        </location>
+                <part type="scope">
+                        <text displayLabel="domain">http://joanfarrforussenate.com</text>
+                    </part>
+            </relatedItem>
+        <location>
+        <url displayLabel="Archived site">http://www.loc.gov/item/lcwaE0008263</url>
+    </location>
+    <location>
+        <physicalLocation>Library of Congress, Washington D.C., 20540</physicalLocation>
+        <physicalLocation authority="marcorg">dlc</physicalLocation>
+    </location>
+    <accessCondition type="restrictionOnAccess">None</accessCondition>
+    <recordInfo>
+        <recordCreationDate encoding="iso8601">20150911</recordCreationDate>
+        <recordIdentifier source="dlc">lcwaE0008263</recordIdentifier>
+        <languageOfCataloging>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+</mods>

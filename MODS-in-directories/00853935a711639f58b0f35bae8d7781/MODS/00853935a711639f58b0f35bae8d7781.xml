@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" version="3.4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <identifier>00853935a711639f58b0f35bae8d7781</identifier>
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>New York Public Library</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <nonSort>The </nonSort>
+    <title>New York Public Library</title>
+  </titleInfo>
+  <name>
+    <namePart>New York Public Library</namePart>
+  </name>
+  <originInfo>
+    <place>
+      <placeTerm type="text">United States</placeTerm>
+    </place>
+    <publisher>New York Public Library</publisher>
+    <dateIssued encoding="marc" point="start">2001</dateIssued>
+    <dateIssued encoding="marc" point="end">2001</dateIssued>
+    <dateCaptured encoding="iso8601" point="start" keyDate="yes">20010920</dateCaptured>
+    <dateCaptured encoding="iso8601" point="end">20011217</dateCaptured>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">electronic</form>
+    <internetMediaType>text/html</internetMediaType>
+    <digitalOrigin>born digital</digitalOrigin>
+  </physicalDescription>
+  <targetAudience>general</targetAudience>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">web site</genre>
+  <abstract>The New York Public Library, a Web Site produced by New York Public Library, an educational institution, is part of the Library of Congress September 11 Web Archive and preserves the web expressions of individuals, groups, the press and institutions in the United States and from around the world in the aftermath of the attacks in the United States on September 11, 2001.</abstract>
+  <subject authority="leaderboard">
+    <topic>Educational</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>September 11 Terrorist Attacks, 2001</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>September 11, 2001 Web Archive</title>
+    </titleInfo>
+    <location>
+      <url>http://hdl.loc.gov/loc.natlib/collnatlib.00000001</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent" displayLabel="URL">
+    <identifier type="uri" displayLabel="Access URL">nypl.org/</identifier>
+    <identifier type="database id">00853935a711639f58b0f35bae8d7781</identifier>
+    <identifier type="hdl" invalid="yes">hdl:loc.natlib/mrva0001.1522</identifier>
+    <location>
+      <url displayLabel="thumbnail image">http://cdn.loc.gov/service/webcapture/project_1/thumbnails/00853935a711639f58b0f35bae8d7781.jpg</url>
+    </location>
+  </relatedItem>
+  <location>
+    <url displayLabel="Archived site">http://www.loc.gov/item/00853935a711639f58b0f35bae8d7781</url>
+  </location>
+  <location>
+    <physicalLocation>Library of Congress, Washington, D.C., 20540 USA</physicalLocation>
+    <physicalLocation authority="marcorg">dlc</physicalLocation>
+  </location>
+  <accessCondition type="restrictionOnAccess">None</accessCondition>
+  <recordInfo>
+    <recordContentSource authority="marcorg">dlc</recordContentSource>
+    <recordChangeDate encoding="iso8601">20150804</recordChangeDate>
+    <recordCreationDate encoding="iso8601">20110519</recordCreationDate>
+    <recordIdentifier source="dlc">00853935a711639f58b0f35bae8d7781</recordIdentifier>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods>
