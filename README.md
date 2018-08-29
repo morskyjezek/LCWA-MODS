@@ -1,6 +1,16 @@
 # LCWA MODS
 
-This folder has a python notebook with information about downloading
+This repo contains sample data for use and testing of processing scripts. The
+data, which reflects metadata for items collected by the Library of Congress, is
+described in more detail below. In addition to this readme, the repository
+contains:
+* a Jupyter notebook with the scripts used to pull and format this data
+* a file containing a group of 25 MODS records in XML format
+* a file containing a group of 5 MODS records in XML format
+* a file with a single MODS record in XML format
+* a folder (`MODS-in-directories`) with 28 subdirectories that contain individual MODS records for 28 items
+
+The Jupyter notebook contains information about downloading
 [MODS](http://www.loc.gov/standards/mods/) records for use as sample data to
 practice parsing XML in python. These sample files were generated in August of
 2018 from MODS metadata records for archived Web sites collected by the Library
@@ -26,8 +36,8 @@ harvesting process:
 
 `lcwaE0008846,lcwaE0008263,lcwaE0008338,lcwaE0008918,lcwaE0008001`
 
-These are some previous generation records, which have slight variety in 
-format and naming convention. 
+These are some previous generation records, which have slight variety in
+format and naming convention.
 
 * `lcwa00097019` _Brazilian Presidential Election 2010 Web Archive_
 * `dfd3979a7fb56bb3acc06b7b0129633c,00853935a711639f58b0f35bae8d7781` _Example from 2002 Winter Olympics and NYPL (September 11, 2001 Web Archive)_
