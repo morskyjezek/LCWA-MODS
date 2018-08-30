@@ -1,9 +1,9 @@
 # LCWA MODS
 
 This repo contains sample data for use and testing of processing scripts for text/XML. 
-The data, which reflects metadata for items collected by the Library of Congress, is
-described in more detail below. In addition to this readme, the repository
-contains:
+The data, which reflects metadata for selected [Web archives](http://www.loc.gov/webarchiving/) 
+collected by the Library of Congress, is described in more detail below. 
+In addition to this readme, the repository contains:
 * a Jupyter notebook with the scripts used to pull and format this data
 * a file containing a group of 25 MODS records in XML format
 * a file containing a group of 5 MODS records in XML format
