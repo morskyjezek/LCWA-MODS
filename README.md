@@ -1,8 +1,11 @@
 # LCWA MODS
 
-This repo contains sample data for use and testing of processing scripts for text/XML. 
-The data, which reflects metadata for selected [Web archives](http://www.loc.gov/webarchiving/) 
-collected by the Library of Congress, is described in more detail below. 
+This repo contains sample data for use and testing of processing scripts for text/XML.
+The sample data comes from the Library of Congress Web Archives (LCWA), a program
+that has been selecting, harvesting, and preserving Web sites since 2000. The sample
+data is an unsystematically collected sample of metadata for 28 sites preserved
+in the [Web archives](http://www.loc.gov/webarchiving/)
+at the Library of Congress. The data is described in more detail below.
 In addition to this readme, the repository contains:
 * a Jupyter notebook with the scripts used to pull and format this data
 * a file containing a group of 25 MODS records in XML format
