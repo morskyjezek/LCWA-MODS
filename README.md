@@ -5,18 +5,23 @@ The sample data comes from the Library of Congress Web Archives (LCWA), a progra
 that has been selecting, harvesting, and preserving Web sites since 2000. The sample
 data is an unsystematically collected sample of metadata for 28 sites preserved
 in the [Web archives](http://www.loc.gov/webarchiving/)
-at the Library of Congress. The data is described in more detail below.
-In addition to this readme, the repository contains:
+at the Library of Congress. The metadata is gathered as sample data for practicing basic 
+operations and manipulations of XML information; this metadata is formatted according to the 
+structure and schema defined in the [Metadata Object Description Schema (MODS)](http://www.loc.gov/standards/mods/), 
+a format initially developed in 2002 for the communication of resource description 
+information by libraries and archives. The data is described in more detail below. 
+In addition to this readme, this git repository contains:
+
 * Samples of library metadata in MODS XML format:
-  1. a file containing a group of 25 MODS records in XML format
-  2. a file containing a group of 5 MODS records in XML format
-  3. a file with a single MODS record in XML format
-  4. a folder (`MODS-in-directories`) with 28 subdirectories that contain individual MODS records for 28 items
+  1. a file containing a group of 25 MODS records in XML format [here](/2018_lcwa_MODS_25.xml)
+  2. a file containing a group of 5 MODS records in XML format [here](/2018_lcwa_MODS_5.xml)
+  3. a file with a single MODS record in XML format [here](/2018_lcwa_MODS_single.xml)
+  4. a folder (`MODS-in-directories`) with 28 subdirectories that contain individual MODS records for 28 items [here](/MODS-in-directories)
 * Jupyter notebooks 
-  1. A [notebook with the scripts used to pull and format this data](/blob/master/Get-Some-LC-Web-Archive-MODs.ipynb)
-  2. A notebook with sample problems and solutions that illustrates various operations that can be undertaken with the XML metadata 
+  1. A [notebook with the scripts used to pull and format this data](/Get-Some-LC-Web-Archive-MODs.ipynb)
+  2. A [notebook with sample problems and solutions that illustrates various operations that can be undertaken with the XML metadata](/Pulling-from-LCWA-MODS.ipynb) 
 * Python scripts
-  1. A script that illustrates how to loop through the `MODS-in-directories` files, extract information, and write it to a csv file
+  1. A [script that illustrates how to loop through the `MODS-in-directories` files, extract information, and write it to a csv file](/MODS-to-CSV-test.py)
 
 The Jupyter notebook contains information about downloading
 [MODS](http://www.loc.gov/standards/mods/) records for use as sample data to
