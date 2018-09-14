@@ -7,11 +7,16 @@ data is an unsystematically collected sample of metadata for 28 sites preserved
 in the [Web archives](http://www.loc.gov/webarchiving/)
 at the Library of Congress. The data is described in more detail below.
 In addition to this readme, the repository contains:
-* a Jupyter notebook with the scripts used to pull and format this data
-* a file containing a group of 25 MODS records in XML format
-* a file containing a group of 5 MODS records in XML format
-* a file with a single MODS record in XML format
-* a folder (`MODS-in-directories`) with 28 subdirectories that contain individual MODS records for 28 items
+* Samples of library metadata in MODS XML format:
+  1. a file containing a group of 25 MODS records in XML format
+  2. a file containing a group of 5 MODS records in XML format
+  3. a file with a single MODS record in XML format
+  4. a folder (`MODS-in-directories`) with 28 subdirectories that contain individual MODS records for 28 items
+* Jupyter notebooks 
+  1. A [notebook with the scripts used to pull and format this data](/blob/master/Get-Some-LC-Web-Archive-MODs.ipynb)
+  2. A notebook with sample problems and solutions that illustrates various operations that can be undertaken with the XML metadata 
+* Python scripts
+  1. A script that illustrates how to loop through the `MODS-in-directories` files, extract information, and write it to a csv file
 
 The Jupyter notebook contains information about downloading
 [MODS](http://www.loc.gov/standards/mods/) records for use as sample data to
