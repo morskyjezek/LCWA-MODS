@@ -49,7 +49,7 @@ harvesting process:
 
 `lcwaE0008846,lcwaE0008263,lcwaE0008338,lcwaE0008918,lcwaE0008001`
 
-These are some previous generation records, which have slight variety in
+These are some previous generation records, which illustrate slight differences in
 format and naming convention.
 
 * `lcwa00097019` _Brazilian Presidential Election 2010 Web Archive_
