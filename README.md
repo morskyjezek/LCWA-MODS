@@ -54,3 +54,9 @@ format and naming convention.
 
 * `lcwa00097019` _Brazilian Presidential Election 2010 Web Archive_
 * `dfd3979a7fb56bb3acc06b7b0129633c,00853935a711639f58b0f35bae8d7781` _Example from 2002 Winter Olympics and NYPL (September 11, 2001 Web Archive)_
+
+## Citation
+
+Jesse Johnston. (2025). morskyjezek/LCWA-MODS: Working with MODS and XML in Python (v1.0). Zenodo. DOI: 
+
+[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
